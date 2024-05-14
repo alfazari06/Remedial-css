@@ -515,6 +515,6 @@ body {
 
 # Hasil
 
-![1.png](Aset%20/Remedial1.png)
-![2.png](Aset%20/Remedial2.png)
-![3.png](Aset%20/Remedial3.png)
+![1.png](Aset%20Remedial/1.png)
+![2.png](Aset%20Remedial/2.png)
+![3.png](Aset%20Remedial/3.png)
