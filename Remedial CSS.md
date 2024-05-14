@@ -515,6 +515,6 @@ body {
 
 # Hasil
 
-![[Remedial CSS/Aset Remedial/1.png]]
-![[Remedial CSS/Aset Remedial/2.png]]
-![[Remedial CSS/Aset Remedial/3.png]]
+![[Remedial CSS/Aset%20Remedial/1.png]]
+![[Remedial CSS/Aset%20Remedial/2.png]]
+![[Remedial CSS/Aset%20Remedial/3.png]]
